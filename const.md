@@ -1,0 +1,22 @@
+# Values and constants
+
+## UUIDs
+
+Service:
+
+- Service UUID = "DAB91435-B5A1-E29C-B041-BCD562613BE4"
+
+Characteristics of service:
+
+- Subscribe = "DAB91382-B5A1-E29C-B041-BCD562613BE4"
+- Write = "DAB91383-B5A1-E29C-B041-BCD562613BE4"
+- RadioSub = "DAB90756-B5A1-E29C-B041-BCD562613BE4"
+- RadioWrite = "DAB90757-B5A1-E29C-B041-BCD562613BE4"
+
+## Enum
+
+Head positions:
+
+0. LEFT
+1. CENTER
+2. RIGHT
